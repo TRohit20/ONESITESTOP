@@ -1,0 +1,2151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+<title>onesitestop</title>
+<link>https://onesitestop.wordpress.com</link>
+<description>One Solution for all questions.</description>
+<pubDate>Tue, 08 Feb 2022 07:45:30 +0000</pubDate>
+<language>en</language>
+<wp:wxr_version>1.2</wp:wxr_version>
+<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
+<wp:base_blog_url>https://onesitestop.wordpress.com</wp:base_blog_url>
+<wp:author>
+  <wp:author_id>216670580</wp:author_id>
+  <wp:author_login>rrohitttt</wp:author_login>
+  <wp:author_email>vadlamudi.rohit5@gmail.com</wp:author_email>
+  <wp:author_display_name><![CDATA[rrohitt]]></wp:author_display_name>
+  <wp:author_first_name><![CDATA[Rohit]]></wp:author_first_name>
+  <wp:author_last_name><![CDATA[T]]></wp:author_last_name>
+</wp:author>
+<wp:category>
+  <wp:term_id>1</wp:term_id>
+  <wp:category_nicename>uncategorized</wp:category_nicename>
+  <wp:category_parent/>
+  <wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+</wp:category>
+<wp:term>
+  <wp:term_id>1357</wp:term_id>
+  <wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+  <wp:term_slug>primary</wp:term_slug>
+  <wp:term_name><![CDATA[Primary]]></wp:term_name>
+</wp:term>
+<generator>http://wordpress.com/</generator>
+
+<image>
+	<url>https://onesitestop.files.wordpress.com/2022/01/ohit-1.png?w=32</url>
+	<title>onesitestop</title>
+	<link>https://onesitestop.wordpress.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<item>
+  <title>Podcast</title>
+  <link>https://onesitestop.wordpress.com/podcast/</link>
+  <pubDate>Mon, 31 Jan 2022 11:53:01 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/podcast/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:query {"query":{"perPage":"3","pages":0,"offset":0,"postType":"post","categoryIds":[],"tagIds":[],"order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"displayLayout":{"type":"list","columns":3},"align":"wide","className":"is-style-quadrat-diamond-posts"} -->
+<div class="wp-block-query alignwide is-style-quadrat-diamond-posts"><!-- wp:post-template -->
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"className":"post-meta","layout":{"type":"flex"}} -->
+<div class="wp-block-group post-meta"><!-- wp:post-date {"isLink":true,"fontSize":"tiny"} /-->
+
+<!-- wp:post-terms {"term":"category","fontSize":"tiny"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-title {"textAlign":"left","isLink":true,"fontSize":"extra-large"} /-->
+
+<!-- wp:post-excerpt {"moreText":"Read more","fontSize":"normal"} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:post-featured-image /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination -->
+<div class="wp-block-query-pagination"><!-- wp:query-pagination-previous /-->
+
+<!-- wp:query-pagination-next /--></div>
+<!-- /wp:query-pagination --></div>
+<!-- /wp:query -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2</wp:post_id>
+  <wp:post_date>2022-01-31 11:53:01</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:53:01</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 11:53:01</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:53:01</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>podcast</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>page</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_headstart_post</wp:meta_key>
+    <wp:meta_value><![CDATA[_hs_extra]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>sharing_disabled</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>switch_like_status</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_starter_page_template</wp:meta_key>
+    <wp:meta_value><![CDATA[blank]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_all_services</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_checklist_post_type</wp:meta_key>
+    <wp:meta_value><![CDATA[_hs_extra]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Blog</title>
+  <link>https://onesitestop.wordpress.com/blog/</link>
+  <pubDate>Mon, 31 Jan 2022 11:53:00 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/blog/</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>3</wp:post_id>
+  <wp:post_date>2022-01-31 11:53:00</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:53:00</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 11:53:00</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:53:00</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>blog</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>page</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_headstart_post</wp:meta_key>
+    <wp:meta_value><![CDATA[_hs_blog_page]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>sharing_disabled</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>switch_like_status</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_starter_page_template</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_all_services</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_checklist_post_type</wp:meta_key>
+    <wp:meta_value><![CDATA[_hs_blog_page]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Contact</title>
+  <link>https://onesitestop.wordpress.com/contact/</link>
+  <pubDate>Mon, 31 Jan 2022 11:52:59 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/contact/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">We're here and we want to listen to your feedback. Have a topic you'd like to hear in our podcast? or Need help with a specific issue. Leave it in the form below, we'll get back to you soon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="leave-us-a-message">Leave Us A Message</h3>
+<!-- /wp:heading -->
+
+<!-- wp:jetpack/contact-form {"subject":"New feedback received from your website","to":"vadlamudi.rohit5@gmail.com"} -->
+<!-- wp:jetpack/field-name {"required":true} /-->
+
+<!-- wp:jetpack/field-email {"required":true} /-->
+
+<!-- wp:jetpack/field-textarea /-->
+
+<!-- wp:jetpack/button {"element":"button","text":"Send Message","borderRadius":0,"width":"","className":"is-style-fill"} /-->
+<!-- /wp:jetpack/contact-form -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4</wp:post_id>
+  <wp:post_date>2022-01-31 11:52:59</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:52:59</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 18:19:35</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:49:35</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>contact</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>1</wp:menu_order>
+  <wp:post_type>page</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>sharing_disabled</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>switch_like_status</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_starter_page_template</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_checklist_post_type</wp:meta_key>
+    <wp:meta_value><![CDATA[_hs_extra]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_g_feedback_shortcode_95af5e42c60231ce23b1f5bf68a8941c3957e85e</wp:meta_key>
+    <wp:meta_value><![CDATA[
+[contact-field required="1" type="name" label="Name"/]
+
+[contact-field required="1" type="email" label="Email"/]
+
+[contact-field type="textarea" label="Message"/]
+
+<div class="wp-block-jetpack-button is-style-fill wp-block-button" style="max-width: 100%"><button class="wp-block-button__link is-style-fill no-border-radius" style="width: ; max-width: 100%" data-id-attr="placeholder" type="submit">Send Message</button></div>
+]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_g_feedback_shortcode_atts_95af5e42c60231ce23b1f5bf68a8941c3957e85e</wp:meta_key>
+    <wp:meta_value><![CDATA[a:11:{s:2:"to";s:26:"vadlamudi.rohit5@gmail.com";s:7:"subject";s:39:"New feedback received from your website";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:12:"Message Sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>About</title>
+  <link>https://onesitestop.wordpress.com/about/</link>
+  <pubDate>Mon, 31 Jan 2022 11:52:58 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/about/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:media-text {"mediaId":43,"mediaLink":"https://onesitestop.wordpress.com/ohit-1-1/","mediaType":"image","mediaWidth":36} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:36% auto;"><figure class="wp-block-media-text__media"><img src="https://onesitestop.files.wordpress.com/2022/01/ohit-1-1.png?w=606" alt="" class="wp-image-43 size-full" /></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"fontSize":"40px","lineHeight":"1.3"}}} -->
+<p style="font-size:40px;line-height:1.3;">Rohit, Lakshana and Raveena are students currently pursuing their Bachelors in Electronics and Computer Science. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We aspire to create solutions with the learning and implication of evolving technology. We went from staring blankly into their laptop screens most of the time, to learning and growing our productivity.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"36px"} -->
+<div style="height:36px;" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:paragraph -->
+<p>Job hunting, keeping up with trends with respect to investments is one of the difficult things to get through especially as a beginner. So, we have com forward with the idea of integrating different services and websites to make it easy for a beginner to surf through and get a understanding. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px;" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":39,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://onesitestop.files.wordpress.com/2022/01/image0-2.jpeg?w=1024" alt="" class="wp-image-39" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="lakshana-k"><span style="text-decoration:underline;">Lakshana K</span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>COO, Operations Lead</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>"The downside of surplus data on hands to work with, often leads to no work being done. So trying to make things and data simpler."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:social-links {"iconColor":"primary","iconColorValue":"#ffe1d0","className":"is-style-logos-only"} -->
+<ul class="wp-block-social-links has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#lakshana.k","service":"twitter"} /-->
+
+<!-- wp:social-link {"url":"#lucky_6._","service":"instagram"} /-->
+
+<!-- wp:social-link {"url":"19311a1933@sreenidhi.edu.in","service":"mail"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":42,"width":271,"height":269,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://onesitestop.files.wordpress.com/2022/01/img_3461.jpg?w=1024" alt="" class="wp-image-42" width="271" height="269" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="rohit-t"><span style="text-decoration:underline;">Rohit T</span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>CEO, Technical Lead</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>"I take pride in saying that I've strike a delicate balance between my work and personal life, in order to expand my horizons."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:social-links {"iconColor":"primary","iconColorValue":"#ffe1d0","className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"left"}} -->
+<ul class="wp-block-social-links has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#TRRohit20","service":"twitter"} /-->
+
+<!-- wp:social-link {"url":"rrohitt.tt","service":"instagram"} /-->
+
+<!-- wp:social-link {"url":"vadlamudi.rohit5@gmail.com","service":"mail"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":75,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://onesitestop.files.wordpress.com/2022/01/picsart_11-10-04.55.41.jpg?w=999" alt="" class="wp-image-75" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="g-raveena"><span style="text-decoration:underline;">G. Raveena</span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Marketing Head</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>"As good as technical solutions are, they still need to sold to common people in simpler and creative ways, I do exactly that."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:social-links -->
+<ul class="wp-block-social-links"><!-- wp:social-link {"url":"19311a1958@sreenidhi.edu.in","service":"mail"} /-->
+
+<!-- wp:social-link {"url":"raveena.aa","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5</wp:post_id>
+  <wp:post_date>2022-01-31 11:52:58</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:52:58</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 21:01:33</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 15:31:33</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>about</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>1</wp:menu_order>
+  <wp:post_type>page</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>sharing_disabled</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>switch_like_status</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_starter_page_template</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_checklist_post_type</wp:meta_key>
+    <wp:meta_value><![CDATA[_hs_extra]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Episode 3: A Cycle of Emotions</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/episode-3-a-cycle-of-emotions/</link>
+  <pubDate>Mon, 31 Jan 2022 11:52:57 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/2022/01/31/episode-3-a-cycle-of-emotions/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Quadrat is a weekly podcast where we discuss all things related to womanhood, from fundamental rights to feminism, body literacy and mental health. We hope to help women become more empowered through knowledge and information, whether they're in America, Africa or in the Middle East. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Join us every week!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:audio {"id":50} -->
+<figure class="wp-block-audio"><audio controls src="https://quadratdemo.files.wordpress.com/2021/05/quadrat-episode-3.wav"></audio></figure>
+<!-- /wp:audio -->
+
+<!-- wp:paragraph -->
+<p><em>“Do we need periods if they make us crazy?”</em>, Sarah asks. Hint: yes, we do. We reached out to our friend Diana Roth, an endocrinologist specialised in women’s hormonal health to know how menstrual cycles impact women’s brains and emotions.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[“Do we need periods if they make us crazy?”, Sarah asks. Hint: yes, we do. We reached out to our friend Diana Roth, an endocrinologist specialised in women’s hormonal health to know how menstrual cycles impact women’s brains and emotions.]]></excerpt:encoded>
+  <wp:post_id>6</wp:post_id>
+  <wp:post_date>2022-01-31 11:52:57</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:52:57</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 11:52:57</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:52:57</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>episode-3-a-cycle-of-emotions</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_headstart_post</wp:meta_key>
+    <wp:meta_value><![CDATA[_hs_extra]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>sharing_disabled</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>switch_like_status</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_starter_page_template</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_all_services</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[14]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Episode 2: Female Leaders, Where Are They?</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/episode-2-female-leaders-where-are-they/</link>
+  <pubDate>Mon, 31 Jan 2022 11:52:56 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/2022/01/31/episode-2-female-leaders-where-are-they/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Quadrat is a weekly podcast where we discuss all things related to womanhood, from fundamental rights to feminism, body literacy and mental health. We hope to help women become more empowered through knowledge and information, whether they're in America, Africa or in the Middle East. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Join us every week!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:audio {"id":41} -->
+<figure class="wp-block-audio"><audio controls src="https://quadratdemo.files.wordpress.com/2021/05/quadrat-episode-2.wav"></audio></figure>
+<!-- /wp:audio -->
+
+<!-- wp:paragraph -->
+<p>After years of revolution, the big question remains: why aren’t there more women in leadership? Sarah and Olivia get deep into the subject.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[After years of revolution, the big question remains: why aren’t there more women in leadership? Sarah and Olivia get deep into the subject.]]></excerpt:encoded>
+  <wp:post_id>7</wp:post_id>
+  <wp:post_date>2022-01-31 11:52:56</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:52:56</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 11:52:56</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:52:56</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>episode-2-female-leaders-where-are-they</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_headstart_post</wp:meta_key>
+    <wp:meta_value><![CDATA[_hs_extra]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>sharing_disabled</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>switch_like_status</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_starter_page_template</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_all_services</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[15]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Episode 1: How Screens Affect Hormones</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/episode-1-how-screens-affect-hormones/</link>
+  <pubDate>Mon, 31 Jan 2022 11:52:55 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/2022/01/31/episode-1-how-screens-affect-hormones/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Quadrat is a weekly podcast where we discuss all things related to womanhood, from fundamental rights to feminism, body literacy and mental health. We hope to help women become more empowered through knowledge and information, whether they're in America, Africa or in the Middle East. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Join us every week!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:audio {"id":26} -->
+<figure class="wp-block-audio"><audio controls src="https://quadratdemo.files.wordpress.com/2021/05/quadrat-episode-1.wav"></audio></figure>
+<!-- /wp:audio -->
+
+<!-- wp:paragraph -->
+<p>In this episode, Sarah and Olivia talk with female hormone specialist Diana Roth about the impact that gadgets and technology have on hormone and fertility health.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[In this episode, Sarah and Olivia talk with female hormone specialist Diana Roth about the impact that gadgets and technology have on hormone and fertility health.]]></excerpt:encoded>
+  <wp:post_id>8</wp:post_id>
+  <wp:post_date>2022-01-31 11:52:55</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:52:55</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 11:52:55</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:52:55</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>episode-1-how-screens-affect-hormones</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_headstart_post</wp:meta_key>
+    <wp:meta_value><![CDATA[_hs_extra]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>sharing_disabled</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>switch_like_status</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_starter_page_template</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_all_services</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[16]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Home</title>
+  <link>https://onesitestop.wordpress.com/</link>
+  <pubDate>Mon, 31 Jan 2022 11:52:54 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/7-2/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"900px"} -->
+<div class="wp-block-column" style="flex-basis:900px;"><!-- wp:heading {"level":1} -->
+<h1 id="job-hunting-to-riding-trend-waves-here-s-your-one-stop-to-all-your-queries-and-trends">Job hunting to riding trend waves. Here's your one-stop to all your queries and trends.</h1>
+<!-- /wp:heading -->
+
+<!-- wp:cover {"url":"https://onesitestop.files.wordpress.com/2022/01/kevin-bhagat-znrite8npqy-unsplash.jpg","id":52,"dimRatio":50,"isDark":false} -->
+<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__gradient-background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-52" alt="" src="https://onesitestop.files.wordpress.com/2022/01/kevin-bhagat-znrite8npqy-unsplash.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size"><strong><em>#OneStopSolution</em></strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading -->
+<h2 id="internships-and-job-opportunities">Internships and Job Opportunities:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Internships are very hard to find as a student and confusing to approach. So, We have provided with a link that is updated every 24 hours with latest openings. You can <a rel="noreferrer noopener" href="https://jnee.uk/gb/best-inventory-tracking-software-jobs-in-united-kingdom?as=2&amp;g=716&amp;utm_source=google&amp;utm_medium=cpc&amp;gclid=Cj0KCQiArt6PBhCoARIsAMF5wagLzsZzYHvJxSRTqp8D9Gizs3cnBsg-GAScoY3c5yGeRikklEj9d-waAi-pEALw_wcB" target="_blank">Click here</a> to have a look. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://jnee.uk/gb/best-inventory-tracking-software-jobs-in-united-kingdom?as=2&amp;g=716&amp;utm_source=google&amp;utm_medium=cpc&amp;gclid=Cj0KCQiArt6PBhCoARIsAMF5wagLzsZzYHvJxSRTqp8D9Gizs3cnBsg-GAScoY3c5yGeRikklEj9d-waAi-pEALw_wcB" target="_blank" rel="noreferrer noopener">Click here</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>As important as it is to find the openings for a position, it is just as important to know how to crack various interviews and bootstrap your skills. For which, We have written a detailed walkthrough you can refer to by <a rel="noreferrer noopener" href="https://www.freecodecamp.org/news/how-to-crack-almost-any-interview/" target="_blank">Clicking here</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.freecodecamp.org/news/how-to-crack-almost-any-interview/" target="_blank" rel="noreferrer noopener">Click here</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading -->
+<h2 id="does-getting-a-job-consolidate-one-s-life-make-us-financially-independent">Does getting a job consolidate one's life? Make us financially independent?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The answer to it is a Resounding NOOOOO! If the goal behind getting a job is to make money so to be "financial free", it is a absolute joke in my opinion. Half of millennials are not sure what financial independence really even means. But, No worries as we have you covered in that case too. We have a series of educational driven purpose articles which are personal finance and wealth growth oriented.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I believe it is just as important to learn to manage your finances as important as it is to have a sustainable job. Here's an article where i walk you through how investing and personal finance has practically changed lifestyles and means of living. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.financialexpress.com/money/why-personal-finance-is-crucial-in-everyday-life/2263454/" target="_blank" rel="noreferrer noopener">Article </a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading -->
+<h2 id="here-are-some-articles-to-educate-you-upon-various-aspects">Here are some articles to educate you upon various aspects:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px;" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query {"queryId":10,"query":{"perPage":"2","pages":0,"offset":0,"postType":"post","categoryIds":[],"tagIds":[],"order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false},"displayLayout":{"type":"flex","columns":2},"align":"wide"} -->
+<div class="wp-block-query alignwide"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%;"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"className":"vertical-query-pattern","layout":{"inherit":false}} -->
+<div class="wp-block-group vertical-query-pattern" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;"><!-- wp:group -->
+<div class="wp-block-group"><!-- wp:image {"id":68,"style":{"color":[]}} -->
+<figure class="wp-block-image"><img src="https://onesitestop.files.wordpress.com/2022/01/blog-web-3.0-the-post-internet-era_3.png?w=1024" alt="" class="wp-image-68" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:cover {"overlayColor":"tertiary","minHeight":360,"contentPosition":"center center","isDark":false,"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"30px","right":"40px","bottom":"20px","left":"40px"}}}} -->
+<div class="wp-block-cover is-light" style="margin-top:0;padding-top:30px;padding-right:40px;padding-bottom:20px;padding-left:40px;min-height:360px;"><span aria-hidden="true" class="has-tertiary-background-color has-background-dim-100 wp-block-cover__gradient-background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textColor":"white"} -->
+<h2 class="has-white-color has-text-color" id="article-1-how-web-3-0-can-and-will-impact-higher-education"><a href="https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/11/how-web-3-0-will-impact-higher-education/">Article 1:  How Web 3.0 can and will impact higher education.</a></h2>
+<!-- /wp:heading -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:paragraph {"textColor":"white"} -->
+<p class="has-white-color has-text-color">The article here talks about the potential web 3.0 carries with it and how it can and will impact the traditional educational system for the better. Not just the student but institutions to make use of it.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:query -->
+
+<!-- wp:cover {"url":"https://onesitestop.files.wordpress.com/2022/01/web_developer_cover_letter_example_1.jpg","id":71,"dimRatio":50,"minHeight":254,"minHeightUnit":"px","isDark":false} -->
+<div class="wp-block-cover is-light" style="min-height:254px;"><span aria-hidden="true" class="wp-block-cover__gradient-background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-71" alt="" src="https://onesitestop.files.wordpress.com/2022/01/web_developer_cover_letter_example_1.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","textColor":"cyan-bluish-gray","fontSize":"large"} -->
+<p class="has-text-align-center has-cyan-bluish-gray-color has-text-color has-large-font-size"><strong><em>The Subtle art of cracking interviews with Soft Skills</em></strong></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:query {"queryId":11,"query":{"perPage":"1","pages":0,"offset":"2","postType":"post","categoryIds":[],"tagIds":[],"order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false},"align":"wide"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template -->
+<!-- wp:group {"className":"horizontal-query-pattern","layout":{"type":"flex"}} -->
+<div class="wp-block-group horizontal-query-pattern"><!-- wp:cover {"overlayColor":"tertiary","minHeight":360,"isDark":false,"className":"horizontal-query-pattern","style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"30px","right":"40px","bottom":"30px","left":"40px"}}}} -->
+<div class="wp-block-cover is-light horizontal-query-pattern" style="margin-top:0;padding-top:30px;padding-right:40px;padding-bottom:30px;padding-left:40px;min-height:360px;"><span aria-hidden="true" class="has-tertiary-background-color has-background-dim-100 wp-block-cover__gradient-background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textColor":"white"} -->
+<h2 class="has-white-color has-text-color" id="bootstrapping-yourself-with-skills-only-takes-you-so-far-i-firmly-believe-and-advocate-that-soft-skills-and-technical-communications-are-which-take-you-forward-in-career-or-in-any-interview">Bootstrapping yourself with skills only takes you so far, I firmly believe and advocate that Soft skills and technical communications are which take you forward in career or in any interview.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://virtualspeech.com/blog/importance-soft-skills#:~:text=Skills%20such%20as%20active%20listening,in%20an%20increasingly%20competitive%20world." target="_blank" rel="noreferrer noopener">Click here</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph {"textColor":"white"} -->
+<p class="has-white-color has-text-color">In the above linked article, we speak about how important role soft skills play in cracking your dream job's interview and overall contributes to your career success. </p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:cover {"url":"https://onesitestop.files.wordpress.com/2022/01/tradingclue-tradingview-competition-cover-2.png","id":89,"dimRatio":50,"gradient":"pale-ocean","isDark":false} -->
+<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__gradient-background has-pale-ocean-gradient-background has-background-dim has-background-gradient"></span><img class="wp-block-cover__image-background wp-image-89" alt="" src="https://onesitestop.files.wordpress.com/2022/01/tradingclue-tradingview-competition-cover-2.png" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center" id="in-investing-what-is-comfortable-is-rarely-profitable"><em><mark style="background-color:rgba(0,0,0,0);" class="has-inline-color has-black-color">"In investing what is comfortable is rarely profitable."</mark></em></h2>
+<!-- /wp:heading --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<!-- wp:cover {"overlayColor":"black"} -->
+<div class="wp-block-cover"><span aria-hidden="true" class="has-black-background-color has-background-dim-100 wp-block-cover__gradient-background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"left","placeholder":"Write title…","fontSize":"large"} -->
+<p class="has-text-align-left has-large-font-size">While investing is fundamental for wealth growth, It is not everyone's bread and butter. At the same time, Trading is not as simple or humanly predictable. The best solution to this is "Trading bots"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://medium.com/coinmonks/crypto-trading-bot-c2ffce8acb2a" target="_blank" rel="noreferrer noopener">Click Here</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>The above article speaks to the solution I have introduced. It speaks about what trading bots are, How they work and how you as a complete beginner can take advantage of them and make bucks. </p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":590,"mediaLink":"https://wordpress.org/patterns/image-from-rawpixel-id-430289-jpeg-1/","mediaType":"image","mediaWidth":60,"verticalAlignment":"top","style":{"color":{"background":"#121c1c","text":"#fffdc7"},"elements":{"link":{"color":{"text":"#fffdc7"}}}}} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top has-text-color has-background has-link-color" style="background-color:#121c1c;color:#fffdc7;grid-template-columns:auto 60%;"><figure class="wp-block-media-text__media"><img src="https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-430289-jpeg-1-1024x1024.jpg" alt="" class="wp-image-590 size-full" /></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"2em","right":"2em","bottom":"2em","left":"2em"}},"elements":{"link":{"color":{"text":"#fffdc7"}}}}} -->
+<div class="wp-block-group has-link-color" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em;"><!-- wp:heading {"style":{"typography":{"fontWeight":"700","fontSize":"48px","lineHeight":"1.15"}}} -->
+<h2 id="opening-party-1" style="font-size:48px;font-weight:700;line-height:1.15;">Opening <br>Party</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#fffdc7"}}},"color":{"text":"#fffdc7"}}} -->
+<p class="has-text-color has-link-color" style="color:#fffdc7;"><a rel="noreferrer noopener" href="http://teleparty.com" target="_blank">Link to Party</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Hosts</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="rohit-lakshana-and-raveena-are-students-just-like-you-are-or-once-were-active-learning-and-critical-thinking-in-hopes-of-bringing-change-and-helping-the-community">Rohit, Lakshana and Raveena are students just like you are or once were. Active learning and critical thinking in hopes of bringing change and helping the community.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"36px"} -->
+<div style="height:36px;" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://wordpress.com/page/onesitestop.wordpress.com/5" target="_blank" rel="noreferrer noopener">Learn More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 id="join-the-community">Join the Community</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We’re thrilled to have you here! Now, if you don’t want to miss an article or an episode, you can subscribe to our newsletter And get notified through to stay updated with our weekly new blogs and posts every tuesday.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","className":"subscription-column"} -->
+<div class="wp-block-column is-vertically-aligned-center subscription-column"><!-- wp:jetpack/subscriptions {"buttonOnNewLine":true} -->
+<div class="wp-block-jetpack-subscriptions wp-block-jetpack-subscriptions__supports-newline wp-block-jetpack-subscriptions__use-newline">[jetpack_subscription_form show_subscribers_total="false" button_on_newline="true" custom_font_size="16px" custom_border_radius="0" custom_border_weight="1" custom_padding="15" custom_spacing="10" submit_button_classes="" email_field_classes="" show_only_email_and_button="true"]</div>
+<!-- /wp:jetpack/subscriptions --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>LISTEN TO OUR PODCASTS ON<br></strong><a href="http://wordpress.com">Apple Podcasts</a> · <a href="http://wordpress.com">Stitcher</a> · <a href="http://wordpress.com">Spotify</a></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>9</wp:post_id>
+  <wp:post_date>2022-01-31 11:52:54</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:52:54</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 22:38:49</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 17:08:49</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>7-2</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>page</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>sharing_disabled</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>switch_like_status</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_starter_page_template</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_page_template</wp:meta_key>
+    <wp:meta_value><![CDATA[page-templates/front-page.php]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>https://onesitestop.wordpress.com/2022/01/31/10/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:02 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/2022/01/31/10/</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>10</wp:post_id>
+  <wp:post_date>2022-01-31 22:28:48</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:02</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 22:28:48</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 16:58:48</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>10</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>2</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[3]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[page]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_content</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>https://onesitestop.wordpress.com/2022/01/31/11/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:02 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/2022/01/31/11/</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>11</wp:post_id>
+  <wp:post_date>2022-01-31 22:28:48</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:02</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 22:28:48</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 16:58:48</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>11</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>3</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[2]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[page]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_content</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>https://onesitestop.wordpress.com/2022/01/31/12/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:02 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/2022/01/31/12/</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>12</wp:post_id>
+  <wp:post_date>2022-01-31 22:28:49</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:02</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 22:28:49</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 16:58:49</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>12</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>1</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[5]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[page]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_content</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>https://onesitestop.wordpress.com/2022/01/31/13/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:02 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/2022/01/31/13/</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>13</wp:post_id>
+  <wp:post_date>2022-01-31 22:19:43</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:02</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 22:19:43</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 16:49:43</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>13</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>4</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[4]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[page]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_content</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Placeholder Image</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/episode-3-a-cycle-of-emotions/placeholder-image/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:02 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/introspection-scaled-1.jpeg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>14</wp:post_id>
+  <wp:post_date>2022-01-31 11:58:02</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:02</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 11:58:02</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:58:02</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>placeholder-image</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>6</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/introspection-scaled-1.jpeg</wp:attachment_url>
+</item>
+<item>
+  <title>Placeholder Image</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/episode-2-female-leaders-where-are-they/placeholder-image-2/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:02 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/leadership.jpeg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>15</wp:post_id>
+  <wp:post_date>2022-01-31 11:58:02</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:02</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 11:58:02</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:58:02</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>placeholder-image-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>7</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/leadership.jpeg</wp:attachment_url>
+</item>
+<item>
+  <title>Placeholder Image</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/episode-1-how-screens-affect-hormones/placeholder-image-3/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:03 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/screen-usage.jpeg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>16</wp:post_id>
+  <wp:post_date>2022-01-31 11:58:03</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:03</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 11:58:03</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:58:03</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>placeholder-image-3</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>8</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/screen-usage.jpeg</wp:attachment_url>
+</item>
+<item>
+  <title>Placeholder Image</title>
+  <link>https://onesitestop.wordpress.com/placeholder-image-4/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:03 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/introspection-scaled-2.jpeg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>17</wp:post_id>
+  <wp:post_date>2022-01-31 17:28:03</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:03</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:28:03</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:58:03</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>placeholder-image-4</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/introspection-scaled-2.jpeg</wp:attachment_url>
+</item>
+<item>
+  <title>Placeholder Image</title>
+  <link>https://onesitestop.wordpress.com/placeholder-image-5/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:03 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/girl-two-illustration.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>18</wp:post_id>
+  <wp:post_date>2022-01-31 17:28:03</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:03</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:28:03</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:58:03</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>placeholder-image-5</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/girl-two-illustration.png</wp:attachment_url>
+</item>
+<item>
+  <title>Placeholder Image</title>
+  <link>https://onesitestop.wordpress.com/placeholder-image-6/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:04 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/girl-one-illustration.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>19</wp:post_id>
+  <wp:post_date>2022-01-31 17:28:04</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:04</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:28:04</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:58:04</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>placeholder-image-6</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/girl-one-illustration.png</wp:attachment_url>
+</item>
+<item>
+  <title>Placeholder Image</title>
+  <link>https://onesitestop.wordpress.com/placeholder-image-7/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:06 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/girls-illustration.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>20</wp:post_id>
+  <wp:post_date>2022-01-31 17:28:06</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:06</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:28:06</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:58:06</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>placeholder-image-7</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/girls-illustration.png</wp:attachment_url>
+</item>
+<item>
+  <title>Placeholder Image</title>
+  <link>https://onesitestop.wordpress.com/placeholder-image-8/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:06 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/leadership-1.jpeg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>21</wp:post_id>
+  <wp:post_date>2022-01-31 17:28:06</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:06</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:28:06</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:58:06</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>placeholder-image-8</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/leadership-1.jpeg</wp:attachment_url>
+</item>
+<item>
+  <title>Placeholder Image</title>
+  <link>https://onesitestop.wordpress.com/placeholder-image-9/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:06 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/screen-usage-1.jpeg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>22</wp:post_id>
+  <wp:post_date>2022-01-31 17:28:06</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:06</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:28:06</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:58:06</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>placeholder-image-9</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/screen-usage-1.jpeg</wp:attachment_url>
+</item>
+<item>
+  <title>Custom Styles</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/wp-global-styles-pub%2fquadrat-black/</link>
+  <pubDate>Mon, 31 Jan 2022 11:58:10 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/2022/01/31/wp-global-styles-pub%2fquadrat-black/</guid>
+  <description/>
+  <content:encoded><![CDATA[{"version":2,"isGlobalStylesUserThemeJSON":true}]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>23</wp:post_id>
+  <wp:post_date>2022-01-31 17:28:10</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 11:58:10</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:28:10</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 11:58:10</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>wp-global-styles-pub%2fquadrat-black</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>wp_global_styles</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="wp_theme" nicename="pub-quadrat-black"><![CDATA[pub/quadrat-black]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>ohit (1)</title>
+  <link>https://onesitestop.wordpress.com/ohit-1/</link>
+  <pubDate>Mon, 31 Jan 2022 12:06:45 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/ohit-1.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>25</wp:post_id>
+  <wp:post_date>2022-01-31 17:36:45</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:06:45</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:36:45</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:06:45</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>ohit-1</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/ohit-1.png</wp:attachment_url>
+</item>
+<item>
+  <title>Primary</title>
+  <link>https://onesitestop.wordpress.com/wp_navigation/primary/</link>
+  <pubDate>Mon, 31 Jan 2022 12:08:20 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/wp_navigation/primary/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Blog","type":"page","id":3,"url":"https://onesitestop.wordpress.com/blog/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Podcast","type":"page","id":2,"url":"https://onesitestop.wordpress.com/podcast/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"About","type":"page","id":5,"url":"https://onesitestop.wordpress.com/about/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Contact","type":"page","id":4,"url":"https://onesitestop.wordpress.com/contact/","kind":"post-type"} /-->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>26</wp:post_id>
+  <wp:post_date>2022-01-31 17:38:20</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:08:20</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:38:20</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:08:20</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>primary</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>wp_navigation</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Primary</title>
+  <link>https://onesitestop.wordpress.com/wp_navigation/primary-2/</link>
+  <pubDate>Mon, 31 Jan 2022 12:08:21 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/wp_navigation/primary-2/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Search","type":"page","id":3,"url":"https://onesitestop.wordpress.com/blog/","kind":"post-type","isTopLevelLink":true} /-->
+
+<!-- wp:navigation-link {"label":"Blog","type":"page","id":2,"url":"https://onesitestop.wordpress.com/podcast/","kind":"post-type","isTopLevelLink":true} /-->
+
+<!-- wp:navigation-link {"label":"About","type":"page","id":5,"url":"https://onesitestop.wordpress.com/about/","kind":"post-type","isTopLevelLink":true} /-->
+
+<!-- wp:navigation-link {"label":"Contact","type":"page","id":4,"url":"https://onesitestop.wordpress.com/contact/","kind":"post-type","isTopLevelLink":true} /-->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>27</wp:post_id>
+  <wp:post_date>2022-01-31 17:38:21</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:08:21</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:41:15</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:11:15</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>primary-2</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>wp_navigation</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>page-without-title</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/page-without-title/</link>
+  <pubDate>Mon, 31 Jan 2022 12:11:15 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/2022/01/31/page-without-title/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:group {"tagName":"main"} -->
+<main class="wp-block-group"><!-- wp:post-content {"layout":{"inherit":true}} /--></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"header","theme":"pub/quadrat-black","tagName":"header"} /-->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px;" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:template-part {"slug":"footer","theme":"pub/quadrat-black","className":"site-footer-container"} /-->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>28</wp:post_id>
+  <wp:post_date>2022-01-31 17:41:15</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:11:15</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:41:15</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:11:15</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>page-without-title</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>wp_template</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="wp_theme" nicename="pub-quadrat-black"><![CDATA[pub/quadrat-black]]></category>
+  <wp:postmeta>
+    <wp:meta_key>origin</wp:meta_key>
+    <wp:meta_value><![CDATA[theme]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>header</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/header/</link>
+  <pubDate>Mon, 31 Jan 2022 12:11:15 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/2022/01/31/header/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:group {"className":"gapless-group","layout":{"inherit":"true"}} -->
+<div class="wp-block-group gapless-group"><!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dvertical)","top":"var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dvertical)"}}},"className":"site-header site-header-linear","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignfull site-header site-header-linear" style="padding-top:var(--wp--custom--gap--vertical);padding-bottom:var(--wp--custom--gap--vertical);"><!-- wp:group {"className":"site-brand","layout":{"type":"flex"}} -->
+<div class="wp-block-group site-brand"><!-- wp:site-logo {"width":107,"shouldSyncIcon":true} /-->
+
+<!-- wp:group {"className":"site-words-stack-small","layout":{"type":"flex"}} -->
+<div class="wp-block-group site-words-stack-small"><!-- wp:site-title /-->
+
+<!-- wp:site-tagline {"style":{"typography":{"fontSize":"var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dfont-sizes\u002d\u002dx-small)"}}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:navigation {"ref":27,"__unstableLocation":"primary","className":"blockbase-responsive-navigation-linear","layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"right","orientation":"horizontal"},"style":{"spacing":{"margin":{"top":"0"}}}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"136px"} -->
+<div style="height:136px;" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>29</wp:post_id>
+  <wp:post_date>2022-01-31 17:41:15</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:11:15</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:41:15</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:11:15</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>header</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>wp_template_part</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="wp_theme" nicename="pub-quadrat-black"><![CDATA[pub/quadrat-black]]></category>
+  <category domain="wp_template_part_area" nicename="uncategorized"><![CDATA[uncategorized]]></category>
+  <wp:postmeta>
+    <wp:meta_key>origin</wp:meta_key>
+    <wp:meta_value><![CDATA[theme]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Header</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/header/</link>
+  <pubDate>Mon, 31 Jan 2022 12:12:29 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/?wp_template_part=header</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:spacer {"height":20} -->
+<div style="height:20px;" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:a8c/site-title {"textAlign":"left","fontSize":"huge"} /-->
+
+<!-- wp:a8c/site-description {"textAlign":"left","textColor":"foreground-light","customFontSize":16} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:a8c/navigation-menu {"textAlign":"right"} /-->
+
+<!-- wp:social-links {"align":"right","className":"is-style-logos-only"} -->
+<ul class="wp-block-social-links alignright is-style-logos-only"><!-- wp:social-link-facebook {"url":"add_your_email@address.com"} /-->
+
+<!-- wp:social-link-instagram {"url":"add_your_email@address.com"} /-->
+
+<!-- wp:social-link-twitter {"url":"add_your_email@address.com"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":20} -->
+<div style="height:20px;" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>32</wp:post_id>
+  <wp:post_date>2022-01-31 17:42:29</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:12:29</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:42:29</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:12:29</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>header</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>wp_template_part</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Footer</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/footer/</link>
+  <pubDate>Mon, 31 Jan 2022 12:12:30 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/?wp_template_part=footer</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:a8c/navigation-menu {"textAlign":"right","textColor":"foreground-light"} /-->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>33</wp:post_id>
+  <wp:post_date>2022-01-31 17:42:30</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:12:30</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:42:30</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:12:30</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>footer</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>wp_template_part</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Custom Styles</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/wp-global-styles-pub%2fhever/</link>
+  <pubDate>Mon, 31 Jan 2022 12:12:47 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/2022/01/31/wp-global-styles-pub%2fhever/</guid>
+  <description/>
+  <content:encoded><![CDATA[{"version":2,"isGlobalStylesUserThemeJSON":true}]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>34</wp:post_id>
+  <wp:post_date>2022-01-31 17:42:47</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:12:47</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 17:42:47</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:12:47</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>wp-global-styles-pub%2fhever</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>wp_global_styles</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="wp_theme" nicename="pub-hever"><![CDATA[pub/hever]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>image0-2</title>
+  <link>https://onesitestop.wordpress.com/image0-2/</link>
+  <pubDate>Mon, 31 Jan 2022 12:42:46 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/image0-2.jpeg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>39</wp:post_id>
+  <wp:post_date>2022-01-31 18:12:46</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:42:46</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 18:12:46</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:42:46</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>image0-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/image0-2.jpeg</wp:attachment_url>
+</item>
+<item>
+  <title>image1-1</title>
+  <link>https://onesitestop.wordpress.com/image1-1/</link>
+  <pubDate>Mon, 31 Jan 2022 12:42:49 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/image1-1.jpeg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>40</wp:post_id>
+  <wp:post_date>2022-01-31 18:12:49</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:42:49</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 18:12:49</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:42:49</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>image1-1</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/image1-1.jpeg</wp:attachment_url>
+</item>
+<item>
+  <title>img_3461</title>
+  <link>https://onesitestop.wordpress.com/img_3461/</link>
+  <pubDate>Mon, 31 Jan 2022 12:45:06 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/img_3461.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>42</wp:post_id>
+  <wp:post_date>2022-01-31 18:15:06</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:45:06</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 18:15:06</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:45:06</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>img_3461</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/img_3461.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>ohit-1-1</title>
+  <link>https://onesitestop.wordpress.com/ohit-1-1/</link>
+  <pubDate>Mon, 31 Jan 2022 12:46:07 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/ohit-1-1.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>43</wp:post_id>
+  <wp:post_date>2022-01-31 18:16:07</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:46:07</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 18:16:07</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:46:07</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>ohit-1-1</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/ohit-1-1.png</wp:attachment_url>
+</item>
+<item>
+  <title>Custom Styles</title>
+  <link>https://onesitestop.wordpress.com/2022/01/31/wp-global-styles-pub%2fedin/</link>
+  <pubDate>Mon, 31 Jan 2022 12:56:20 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">https://onesitestop.wordpress.com/2022/01/31/wp-global-styles-pub%2fedin/</guid>
+  <description/>
+  <content:encoded><![CDATA[{"version":2,"isGlobalStylesUserThemeJSON":true}]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>48</wp:post_id>
+  <wp:post_date>2022-01-31 18:26:20</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:56:20</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 18:26:20</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:56:20</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>wp-global-styles-pub%2fedin</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>wp_global_styles</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="wp_theme" nicename="pub-edin"><![CDATA[pub/edin]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>multicolored concrete house</title>
+  <link>https://onesitestop.wordpress.com/7-2/pexels-photo-1030889/</link>
+  <pubDate>Mon, 31 Jan 2022 12:59:30 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/pexels-photo-1030889.jpeg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[Photo by Daria Shevtsova on <a href="https://www.pexels.com/photo/multicolored-concrete-house-1030889/" rel="nofollow">Pexels.com</a>]]></excerpt:encoded>
+  <wp:post_id>50</wp:post_id>
+  <wp:post_date>2022-01-31 18:29:30</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 12:59:30</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 18:29:30</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 12:59:30</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>pexels-photo-1030889</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>9</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/pexels-photo-1030889.jpeg</wp:attachment_url>
+</item>
+<item>
+  <title>kevin-bhagat-znrite8npqy-unsplash</title>
+  <link>https://onesitestop.wordpress.com/kevin-bhagat-znrite8npqy-unsplash/</link>
+  <pubDate>Mon, 31 Jan 2022 13:01:05 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/kevin-bhagat-znrite8npqy-unsplash.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>52</wp:post_id>
+  <wp:post_date>2022-01-31 18:31:05</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 13:01:05</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 18:31:05</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 13:01:05</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>kevin-bhagat-znrite8npqy-unsplash</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/kevin-bhagat-znrite8npqy-unsplash.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>image</title>
+  <link>https://onesitestop.wordpress.com/image/</link>
+  <pubDate>Mon, 31 Jan 2022 13:04:37 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/image.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>53</wp:post_id>
+  <wp:post_date>2022-01-31 18:34:37</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 13:04:37</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 18:34:37</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 13:04:37</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>image</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/image.png</wp:attachment_url>
+</item>
+<item>
+  <title>brett_rakestraw_001_cover</title>
+  <link>https://onesitestop.wordpress.com/brett_rakestraw_001_cover/</link>
+  <pubDate>Mon, 31 Jan 2022 13:30:26 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/brett_rakestraw_001_cover.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>63</wp:post_id>
+  <wp:post_date>2022-01-31 19:00:26</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 13:30:26</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 19:00:26</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 13:30:26</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>brett_rakestraw_001_cover</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/brett_rakestraw_001_cover.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>brett_rakestraw_001_cover-1</title>
+  <link>https://onesitestop.wordpress.com/brett_rakestraw_001_cover-1/</link>
+  <pubDate>Mon, 31 Jan 2022 14:01:23 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/brett_rakestraw_001_cover-1.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>65</wp:post_id>
+  <wp:post_date>2022-01-31 19:31:23</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 14:01:23</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 19:31:23</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 14:01:23</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>brett_rakestraw_001_cover-1</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/brett_rakestraw_001_cover-1.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>blog-web-3.0-the-post-internet-era_3</title>
+  <link>https://onesitestop.wordpress.com/blog-web-3-0-the-post-internet-era_3/</link>
+  <pubDate>Mon, 31 Jan 2022 14:10:21 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/blog-web-3.0-the-post-internet-era_3.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>68</wp:post_id>
+  <wp:post_date>2022-01-31 19:40:21</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 14:10:21</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 19:40:21</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 14:10:21</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>blog-web-3-0-the-post-internet-era_3</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/blog-web-3.0-the-post-internet-era_3.png</wp:attachment_url>
+</item>
+<item>
+  <title>web_developer_cover_letter_example_1</title>
+  <link>https://onesitestop.wordpress.com/web_developer_cover_letter_example_1/</link>
+  <pubDate>Mon, 31 Jan 2022 14:20:38 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/web_developer_cover_letter_example_1.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>71</wp:post_id>
+  <wp:post_date>2022-01-31 19:50:38</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 14:20:38</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 19:50:38</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 14:20:38</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>web_developer_cover_letter_example_1</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/web_developer_cover_letter_example_1.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>picsart_11-10-04.55.41</title>
+  <link>https://onesitestop.wordpress.com/picsart_11-10-04-55-41/</link>
+  <pubDate>Mon, 31 Jan 2022 15:19:49 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/picsart_11-10-04.55.41.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????]]></excerpt:encoded>
+  <wp:post_id>75</wp:post_id>
+  <wp:post_date>2022-01-31 20:49:49</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 15:19:49</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 20:49:49</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 15:19:49</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>picsart_11-10-04-55-41</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/picsart_11-10-04.55.41.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>tradingclue-tradingview-competition-cover</title>
+  <link>https://onesitestop.wordpress.com/tradingclue-tradingview-competition-cover/</link>
+  <pubDate>Mon, 31 Jan 2022 16:19:28 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/tradingclue-tradingview-competition-cover.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>85</wp:post_id>
+  <wp:post_date>2022-01-31 21:49:28</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 16:19:28</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 21:49:28</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 16:19:28</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>tradingclue-tradingview-competition-cover</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/tradingclue-tradingview-competition-cover.png</wp:attachment_url>
+</item>
+<item>
+  <title>tradingclue-tradingview-competition-cover-1</title>
+  <link>https://onesitestop.wordpress.com/tradingclue-tradingview-competition-cover-1/</link>
+  <pubDate>Mon, 31 Jan 2022 16:27:11 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/tradingclue-tradingview-competition-cover-1.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>87</wp:post_id>
+  <wp:post_date>2022-01-31 21:57:11</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 16:27:11</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 21:57:11</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 16:27:11</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>tradingclue-tradingview-competition-cover-1</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/tradingclue-tradingview-competition-cover-1.png</wp:attachment_url>
+</item>
+<item>
+  <title>tradingclue-tradingview-competition-cover-2</title>
+  <link>https://onesitestop.wordpress.com/tradingclue-tradingview-competition-cover-2/</link>
+  <pubDate>Mon, 31 Jan 2022 16:28:54 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/tradingclue-tradingview-competition-cover-2.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>89</wp:post_id>
+  <wp:post_date>2022-01-31 21:58:54</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 16:28:54</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 21:58:54</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 16:28:54</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>tradingclue-tradingview-competition-cover-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/tradingclue-tradingview-competition-cover-2.png</wp:attachment_url>
+</item>
+<item>
+  <title>forex-market</title>
+  <link>https://onesitestop.wordpress.com/forex-market/</link>
+  <pubDate>Mon, 31 Jan 2022 16:29:29 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/forex-market.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>90</wp:post_id>
+  <wp:post_date>2022-01-31 21:59:29</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 16:29:29</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 21:59:29</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 16:29:29</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>forex-market</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/forex-market.png</wp:attachment_url>
+</item>
+<item>
+  <title>web_developer_cover_letter_example_1-1</title>
+  <link>https://onesitestop.wordpress.com/web_developer_cover_letter_example_1-1/</link>
+  <pubDate>Mon, 31 Jan 2022 16:29:39 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/web_developer_cover_letter_example_1-1.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>91</wp:post_id>
+  <wp:post_date>2022-01-31 21:59:39</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 16:29:39</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 21:59:39</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 16:29:39</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>web_developer_cover_letter_example_1-1</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/web_developer_cover_letter_example_1-1.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>background-image-cover-psd-vector-photo</title>
+  <link>https://onesitestop.wordpress.com/background-image-cover-psd-vector-photo/</link>
+  <pubDate>Mon, 31 Jan 2022 16:41:54 +0000</pubDate>
+  <dc:creator>rrohitttt</dc:creator>
+  <guid isPermaLink="false">http://onesitestop.files.wordpress.com/2022/01/background-image-cover-psd-vector-photo.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>96</wp:post_id>
+  <wp:post_date>2022-01-31 22:11:54</wp:post_date>
+  <wp:post_date_gmt>2022-01-31 16:41:54</wp:post_date_gmt>
+  <wp:post_modified>2022-01-31 22:11:54</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-31 16:41:54</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>background-image-cover-psd-vector-photo</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://onesitestop.files.wordpress.com/2022/01/background-image-cover-psd-vector-photo.jpg</wp:attachment_url>
+</item>
+  </channel>
+</rss>
